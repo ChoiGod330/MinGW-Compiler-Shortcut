@@ -1,3 +1,6 @@
+###Please be reminded to [install MinGW](https://github.com/ChoiGod330/Compile-.cpp-to-.exe) before using this script.
+###Please enter a path with file name (Shift+Ctrl+C in File Explorer could be useful).
+This is the source code for the script:
 ```
 #include <iostream>
 #include <fstream>
